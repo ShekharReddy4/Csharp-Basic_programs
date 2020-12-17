@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonFunc", "AnonFunc\AnonFu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadClassPlayingAround", "ThreadClassPlayingAround\ThreadClassPlayingAround.csproj", "{53EDE63A-E570-438D-887E-9E407A054467}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{E9BDF368-1FE7-471F-A863-EA16D5FFF3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodEg", "ExtensionMethodEg\ExtensionMethodEg.csproj", "{228893FF-07A0-424F-AAFC-68614236F1A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{53EDE63A-E570-438D-887E-9E407A054467}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53EDE63A-E570-438D-887E-9E407A054467}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53EDE63A-E570-438D-887E-9E407A054467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BDF368-1FE7-471F-A863-EA16D5FFF3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BDF368-1FE7-471F-A863-EA16D5FFF3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BDF368-1FE7-471F-A863-EA16D5FFF3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BDF368-1FE7-471F-A863-EA16D5FFF3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228893FF-07A0-424F-AAFC-68614236F1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228893FF-07A0-424F-AAFC-68614236F1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228893FF-07A0-424F-AAFC-68614236F1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228893FF-07A0-424F-AAFC-68614236F1A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
