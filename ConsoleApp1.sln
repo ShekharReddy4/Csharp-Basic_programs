@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodEg", "Extens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrExample", "ConstrExample\ConstrExample.csproj", "{C17EC1E7-14D1-4F95-9474-21A237A8CF93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciples", "SOLIDPrinciples\SOLIDPrinciples.csproj", "{ABDF48E8-ED04-4F05-8A31-6EFF7DB4CE59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{C17EC1E7-14D1-4F95-9474-21A237A8CF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C17EC1E7-14D1-4F95-9474-21A237A8CF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C17EC1E7-14D1-4F95-9474-21A237A8CF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDF48E8-ED04-4F05-8A31-6EFF7DB4CE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDF48E8-ED04-4F05-8A31-6EFF7DB4CE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDF48E8-ED04-4F05-8A31-6EFF7DB4CE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDF48E8-ED04-4F05-8A31-6EFF7DB4CE59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
